@@ -45,5 +45,3 @@ This process operates continuously, enabling the vehicle to respond to its surro
 The study helped us understand the application of AI in self-driving cars. AI enables vehicles to detect surroundings, identify obstacles, make decisions, and navigate safely. Sensors, computer vision, and machine learning play important roles in autonomous driving. Thus, the aim of the experiment was successfully achieved.
 
 Sensors, computer vision, and machine learning play important roles in autonomous driving. Thus, the aim of the experiment was successfully achieved.
-
-Sensors, computer vision, and machine learning play important roles in autonomous driving. Thus, the aim of the experiment was successfully achieved.
