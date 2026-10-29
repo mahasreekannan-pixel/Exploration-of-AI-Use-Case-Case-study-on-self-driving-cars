@@ -18,6 +18,9 @@ The major AI technologies used in self-driving cars are:
 6. Control Systems: Convert driving decisions into steering, braking, and acceleration commands.
 Self-driving cars can improve transportation efficiency, support people with mobility difficulties, and help reduce accidents caused by human error. However, their performance depends on road conditions, sensor accuracy, weather, and the reliability of their AI systems. Human supervision and safety measures remain important for many autonomous driving systems.
 
+<img width="743" height="413" alt="image" src="https://github.com/user-attachments/assets/fefa75f1-6fe1-4eb1-9c51-0d83737e6257" />
+
+
 # WORKING PRINCIPLE 
 
 The working principle of an AI-based self-driving car is:
@@ -33,6 +36,9 @@ Working Steps
 7. Vehicle Control: The control system converts the planned actions into steering, braking, and acceleration commands.
 8. Continuous Monitoring: Sensors continuously collect new data, allowing the AI system to update its decisions whenever road conditions change.
 This process operates continuously, enabling the vehicle to respond to its surroundings in real time.
+
+<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/b0c5794a-3f56-4051-b889-2ebad03834fc" />
+
 
 # RESULT
 
